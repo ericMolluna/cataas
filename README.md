@@ -1,19 +1,22 @@
-# Galeria de Gats - Proyecto Laravel
+    Galeria Felina - Aplicació Laravel
+**Descripció**
+---------------
 
-## Descripción
-Este proyecto es una aplicación web construida con Laravel que muestra una galería de imágenes de gatos, con la capacidad de filtrarlas por etiquetas (tags). Los usuarios pueden interactuar con la galería, ver imágenes y filtrar por las etiquetas que más les interesen.
+Aquest projecte és una aplicació web desenvolupada amb Laravel que permet visualitzar una galeria d’imatges de gats. A més, ofereix la possibilitat de filtrar les imatges mitjançant etiquetes per facilitar la cerca segons els interessos de l’usuari.
 
-## Características
-- **Paginación**: Las imágenes están paginadas para facilitar la navegación por la galería.
-- **Filtrado por etiquetas**: Los usuarios pueden filtrar las imágenes por etiquetas asociadas a cada imagen.
-- **Interactividad**: Los usuarios pueden hacer clic en un tag y ver todas las imágenes asociadas a dicho tag, manteniendo la paginación.
+**Funcionalitats**
+----------------
 
-## Instalación
+Paginació: Navegació fluida gràcies a la divisió de les imatges en pàgines.
+Filtre per etiquetes: Els usuaris poden seleccionar etiquetes per veure només les imatges relacionades.
+Interactivitat: En fer clic sobre una etiqueta, es carreguen totes les imatges vinculades, mantenint la paginació activa.
 
-### Requisitos previos
-Asegúrate de tener los siguientes elementos instalados antes de comenzar:
+Instal·lació
+---------------
+Requisits previs
+Abans de començar, assegura’t de tenir instal·lats els següents components:
 
-- [PHP](https://www.php.net/) (versión 7.3 o superior)
-- [Composer](https://getcomposer.org/)
-- [Laravel](https://laravel.com/)
-- [SQLite](https://www.sqlite.org/) o una base de datos compatible.
+**PHP (versió 7.3 o superior)**
+Composer
+Laravel
+SQLite o qualsevol altra base de dades compatible.
